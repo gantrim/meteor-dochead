@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'kadira:dochead',
+  name: 'gantrim:dochead',
   summary: 'Isomorphic way to manipulate document.head for Meteor apps',
   version: '1.4.0',
   git: 'https://github.com/kadirahq/meteor-dochead.git'
